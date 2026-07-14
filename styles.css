@@ -586,7 +586,7 @@ body {
     padding: 80px 0;
     background: var(--light-bg);
 }
-.contact intro-item-info{
+.contact-intro-item-info{
     display:grid;
     grid-template-columns:repeat(3,1fr);
     gap:40px;
