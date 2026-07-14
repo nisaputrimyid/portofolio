@@ -46,7 +46,7 @@ if (contactForm) {
         }
         
         // Create mailto link
-        const mailtoLink = `mailto:annisa@example.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
+        const mailtoLink = `mailto:annisa.p.sajjida@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
         
         // Open email client
         window.location.href = mailtoLink;
